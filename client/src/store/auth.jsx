@@ -12,7 +12,7 @@ export const AuthProvider = ({ children }) => {
 
   //   const API = import.meta.env.VITE_APP_URI_API;
   // const API = `http://localhost:5001`;
-  const API=`https://user-authentication-system-backend.onrender.com/`
+  const API=`https://user-authentication-system-backend.onrender.com`
 
   console.log('API:', API);
 
